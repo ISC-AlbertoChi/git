@@ -48,3 +48,7 @@ git log //muestra los commits, nombres fecha, texto y más
 
 git log --oneline // muestra los commits y el texto puesto en ellos (es mejor usar este)
 
+git branch // muestra la rama en la que estamos
+
+git checkout -b nombrerama // ta cambia a una rama
+
