@@ -31,3 +31,12 @@ git push // sube los cambios al servidor
 git status // permite ver el estado actual del repositorio
 
 rm // borrar archivos
+
+git restore --staged // quita los cambios del stage
+
+git restore // discarta los cambios en el directorio
+
+mv archivo nuevo_nombre// cambia de nombre archivos o los mueve (primer argumento donde esta y segundo donde lo pongo)
+
+
+
