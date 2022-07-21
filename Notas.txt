@@ -52,3 +52,5 @@ git branch // muestra la rama en la que estamos
 
 git checkout -b nombrerama // ta cambia a una rama
 
+cat // muestra lo que tiene el archivo
+
