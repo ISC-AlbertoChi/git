@@ -55,3 +55,14 @@ git checkout -b nombrerama // ta cambia a una rama
 cat // muestra lo que tiene el archivo
 
 git merge nombrerama // trae los cambios de la rama al main
+
+git remote add origin https://github.com/ISC-AlbertoChi/git.git
+
+git remote add origin // de donde saco el codigo y donde lo pongo
+
+git push -u origin main
+
+git push // subir los cambios al server 
+
+-u // la creamos 
+origin // donde queremos crearla
