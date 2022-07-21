@@ -29,3 +29,5 @@ git commit // compromete los cambios al commit
 git push // sube los cambios al servidor
 
 git status // permite ver el estado actual del repositorio
+
+rm // borrar archivos
