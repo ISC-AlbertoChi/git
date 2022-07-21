@@ -54,3 +54,4 @@ git checkout -b nombrerama // ta cambia a una rama
 
 cat // muestra lo que tiene el archivo
 
+git merge nombrerama // trae los cambios de la rama al main
