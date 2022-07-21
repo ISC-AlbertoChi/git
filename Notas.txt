@@ -66,3 +66,5 @@ git push // subir los cambios al server
 
 -u // la creamos 
 origin // donde queremos crearla
+
+PROBANDO push
