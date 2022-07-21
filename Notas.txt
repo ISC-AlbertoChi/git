@@ -1,0 +1,31 @@
+ git config --global // sirve para hacer configuraciones globales, no por poyecto
+
+git config --global user.name "Alberto Chi" //configurar nombre
+
+git config --global user.email isc.albertochi@gmail.com // configurar email
+
+git config --global core.editor "code --wait" //hacer visual studio code nuestro editor 
+
+git config --global -e // mostrar archivo de configuraciones globales
+
+git config --global core.autocrlf true // configurar saltos de linea (en vez de true poner 'input' en linux)
+
+ls // listar directorios y archivos en el directorio actual
+
+pwd // saber el directorio actual
+
+cd // moverse entre los directorios
+
+mkdir // crear directorio
+
+ls -a // mostrar directorios y archivos ocultos
+
+git init // iniciar git
+
+git add // selecciona los cambios que vamos a pasar al 'stage'
+
+git commit // compromete los cambios al commit
+
+git push // sube los cambios al servidor
+
+git status // permite ver el estado actual del repositorio
