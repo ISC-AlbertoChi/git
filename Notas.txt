@@ -30,6 +30,8 @@ git push // sube los cambios al servidor
 
 git status // permite ver el estado actual del repositorio
 
+git status -s // lo mismo pero simplificado
+
 rm // borrar archivos
 
 git restore --staged // quita los cambios del stage
@@ -38,5 +40,11 @@ git restore // discarta los cambios en el directorio
 
 mv archivo nuevo_nombre// cambia de nombre archivos o los mueve (primer argumento donde esta y segundo donde lo pongo)
 
+git diff // muestra los cambios que tiene un documento que no esta en el stage aun
 
+git diff --staged // muestra los cambios que tiene un documento en el stage
+
+git log //muestra los commits, nombres fecha, texto y más
+
+git log --oneline // muestra los commits y el texto puesto en ellos (es mejor usar este)
 
